@@ -1,4 +1,4 @@
-,age,workclass,education,marital-status,occupation,relationship,race,sex,hours-per-week,native-country,income
+age,workclass,education,marital-status,occupation,relationship,race,sex,hours-per-week,native-country,income
 48302,Adult,Private,Assoc-acdm,Married-civ-spouse,Transport-moving,Husband,White,Male,Extended Work Hours,United-States,>50K
 3927,Middle-aged Adult,Private,Masters,Married-civ-spouse,Exec-managerial,Husband,White,Male,Extended Work Hours,United-States,>50K
 29144,Middle-aged Adult,Private,Some-college,Married-civ-spouse,Exec-managerial,Wife,White,Female,Extended Work Hours,United-States,>50K
